@@ -100,4 +100,4 @@ const styles = {
     link: { color: '#e1b356', textDecoration: 'none', fontWeight: 'bold' }
 };
 
-export default Registr;
+export default Register;
